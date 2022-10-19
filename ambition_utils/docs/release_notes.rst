@@ -1,6 +1,10 @@
 Release Notes
 =============
 
+2.5.4
+_____
+* Revert Timezone Changes
+
 2.5.1
 -----
 * Updated the get_time_zone() helper method with pytz.all_timezones
